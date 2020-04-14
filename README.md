@@ -28,6 +28,7 @@
 
 This project was developed with the following technologies:
 
+- [Font awesome](https://fontawesome.com/)
 - [Normalize](https://necolas.github.io/normalize.css/)
 
 ## :information_source: How To Use
